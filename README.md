@@ -1,3 +1,3 @@
-# leagueoflegends-tools
-Scripts and Tools we use for /r/leagueoflegends!
-Nothing really public here
+# /r/leagueoflegends
+
+Data and other stuff will be hosted here. 
