@@ -1,5 +1,0 @@
-echo HI THIS IS A TEST
-
-pause
-
-ipconfig
