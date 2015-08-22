@@ -7,6 +7,7 @@
 		<!-- amCharts javascript sources -->
 		<script type="text/javascript" src="http://www.amcharts.com/lib/3/amcharts.js"></script>
 		<script type="text/javascript" src="http://www.amcharts.com/lib/3/serial.js"></script>
+		<script type="text/javascript" src="http://www.amcharts.com/lib/3/themes/black.js"></script>
 
 		<!-- amCharts javascript code -->
 		<script type="text/javascript">
@@ -15,6 +16,7 @@
 					"type": "serial",
 					"categoryField": "category",
 					"startDuration": 1,
+					"theme": "black",
 					"categoryAxis": {
 						"gridPosition": "start",
 						"title": "eSports Teams"
@@ -22,10 +24,14 @@
 					"trendLines": [],
 					"graphs": [
 						{
+							"bullet": "triangleUp",
 							"colorField": "color",
 							"fillAlphas": 1,
+							"fontSize": 10,
+							"gradientOrientation": "horizontal",
 							"id": "AmGraph-1",
 							"lineColorField": "color",
+							"markerType": "triangleUp",
 							"title": "/r/leagueoflegends Summer Finals Flair Count",
 							"type": "column",
 							"valueField": "column-1"
@@ -35,7 +41,8 @@
 					"valueAxes": [
 						{
 							"id": "ValueAxis-1",
-							"title": "User Flair Count"
+							"title": "User Flair Count",
+							"titleFontSize": 16
 						}
 					],
 					"allLabels": [],
@@ -43,7 +50,7 @@
 					"titles": [
 						{
 							"id": "Title-1",
-							"size": 15,
+							"size": 19,
 							"text": "/r/leagueoflegends Summer Finals Flair Count"
 						}
 					],
@@ -51,22 +58,22 @@
 						{
 							"category": "Team SoloMid",
 							"column-1": "33542",
-							"color": "#000000"
+							"color": "#191919"
 						},
 						{
 							"category": "Counter Logic Gaming",
 							"column-1": "21521",
-							"color": "#2E64FE"
+							"color": "#000928"
 						},
 						{
 							"category": "FNATIC",
 							"column-1": "13685",
-							"color": "#E5E169"
+							"color": "#EDED8E"
 						},
 						{
 							"category": "Origen",
 							"column-1": "731",
-							"color": "#12120A"
+							"color": "#171D28"
 						}
 					]
 				}
@@ -74,6 +81,6 @@
 		</script>
 	</head>
 	<body>
-		<div id="chartdiv" style="width: 100%; height: 400px; background-color: #FFFFFF;" ></div>
+		<div id="chartdiv" style="width: 100%; height: 400px; background-color: #222222;" ></div>
 	</body>
 </html>
