@@ -1,0 +1,316 @@
+00 team,29698
+01 team,18981
+02 team,4948
+03 team,8110
+04 team,388
+05 team,631
+06 team,232
+07 team,12948
+08 team,961
+09 team,4387
+10 team,1438
+11 team,10180
+12 team,5722
+13 team,172
+14 team,5392
+15 team,322
+16 team,298
+17 team,1045
+18 team,387
+19 team,3165
+20 team,48
+21 team,8
+22 team,51
+23 team,28
+24 team,620
+25 team,6
+26 team,107
+27 team,65
+30 team,285
+32 team,343
+33 team,753
+34 team,500
+35 team,196
+36 team,22
+37 team,467
+40 team,68
+41 team,20
+42 team,81
+43 team,86
+44 team,7
+45 team,7
+46 team,13
+48 team,2
+50 team,61
+51 team,64
+52 team,15
+53 team,371
+54 team,4
+55 team,4
+56 team,26
+57 team,30
+60 team,42
+61 team,120
+62 team,170
+63 team,5
+64 team,14
+65 team,3
+66 team,11
+67 team,111
+70 team,323
+71 team,687
+72 team,93
+73 team,1574
+74 team,5171
+75 team,220
+76 team,1579
+77 team,1061
+80 team,15
+81 team,64
+82 team,103
+83 team,23
+84 team,8
+85 team,883
+86 team,25
+87 team,156
+OPL O0,5
+OPL O1,9
+OPL O2,216
+OPL O3,12
+OPL O4,6
+OPL O5,12
+OPL O6,3
+OPL O7,6
+aatrox,1216
+ahri,6422
+akali,2331
+alistar,1302
+alliance,2
+amumu,2035
+anivia,2668
+annie,2389
+ashe,1928
+avarosan,40
+azir,1721
+bard,2273
+bestof2014,5
+blitzcrank,3125
+brand,1218
+braum,1200
+caitlyn,2421
+cassiopeia,872
+chogath,1625
+clg,2
+cloudnine,4
+corki,1202
+counterlogicna,1
+curse,3
+darius,1363
+diana,2683
+dignitas,3
+draven,3824
+drmundo,1086
+ekko,775
+elise,1535
+evelynn,898
+ezreal,3894
+f0,2
+f1,1
+f2,2
+f3,1
+fiddlesticks,1301
+fiora,1353
+fizz,2737
+fnatic,4
+frostguard,24
+galio,609
+gamania,128
+gambit,1
+gangplank,2043
+garen,1388
+gnar,1667
+gragas,1292
+graves,2164
+hecarim,1388
+heimerdinger,2133
+irelia,3355
+janna,3072
+jarvaniv,2065
+jax,2085
+jayce,2199
+jinx,4439
+kalista,810
+karma,1529
+karthus,747
+kassadin,1119
+katarina,3347
+kayle,1102
+kennen,1279
+khazix,2809
+kogmaw,1270
+ktrolster,1
+leblanc,1536
+leesin,6336
+leona,3796
+lissandra,714
+lucian,2207
+lulu,3557
+lux,3583
+malphite,832
+malzahar,1942
+maokai,1509
+masteryi,1435
+mineski,1
+missfortune,1436
+monkeyking,2131
+mordekaiser,1500
+morgana,1836
+moscow5,1
+nami,2537
+nasus,1796
+nautilus,2132
+nidalee,3668
+ninjas,597
+nocturne,2120
+nunu,1308
+olaf,1069
+omg,1
+orianna,2607
+pantheon,1166
+poppy,1487
+quinn,2043
+rammus,1593
+reksai,640
+renekton,2009
+rengar,2881
+riot,534
+riven,5859
+royal,1
+rumble,1845
+ryze,1113
+saigonjokers,41
+samsunggalaxy,1
+sejuani,1016
+shaco,2784
+shen,1308
+shyvana,1510
+singed,2863
+sion,897
+sivir,863
+skarner,1152
+skt1,3
+sona,3507
+soraka,1205
+swain,1444
+syndra,2015
+tahmkench,254
+talon,1644
+taric,1759
+team 00,3738
+team 01,5667
+team 02,319
+team 03,1387
+team 04,168
+team 05,386
+team 06,62
+team 07,3510
+team 08,692
+team 09,264
+team 10,85
+team 11,4333
+team 12,384
+team 13,73
+team 14,325
+team 15,2814
+team 16,55
+team 17,227
+team 18,451
+team 19,502
+team 20,47
+team 21,1
+team 22,20
+team 23,29
+team 24,39
+team 25,1
+team 26,103
+team 27,7
+team 30,614
+team 32,246
+team 33,65
+team 34,20
+team 35,170
+team 36,4
+team 37,28
+team 40,36
+team 41,8
+team 42,44
+team 43,40
+team 44,14
+team 45,135
+team 46,44
+team 47,36
+team 48,16
+team 50,55
+team 51,3
+team 52,1
+team 53,28
+team 56,7
+team 57,15
+team 60,4
+team 61,24
+team 62,11
+team 63,7
+team 64,12
+team 65,4
+team 66,3
+team 67,47
+team 70,136
+team 71,92
+team 72,11
+team 73,59
+team 74,1736
+team 75,116
+team 76,283
+team 77,369
+team 80,11
+team 81,28
+team 82,28
+team 83,6
+team 84,6
+team 85,74
+team 86,22
+team 87,282
+team-soraka,1561
+teamdignitas,1
+teamsolomid,2
+teemo,4811
+thresh,8983
+tristana,1655
+trundle,1202
+tryndamere,1427
+tsm,3
+twistedfate,2410
+twitch,1341
+udyr,2393
+urgot,1140
+varus,1262
+vayne,5968
+veigar,1762
+velkoz,1192
+vi,2774
+viktor,2409
+vladimir,1780
+volibear,1675
+warwick,1041
+winterclaw,23
+xerath,1130
+xinzhao,777
+yasuo,3865
+yorick,778
+zac,1499
+zed,5888
+ziggs,2200
+zilean,1148
+zyra,1682
+
+
